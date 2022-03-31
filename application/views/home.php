@@ -122,7 +122,7 @@ $(function () {
 	<div class="container">		
 		<!-- FOOTER -->
 		<section>
-			<p class="text-center muted">&copy; Copyright 2022 - <br>Created By : <a href="https://thewins.web.id" target="_blank">Tony Wijaya</a><br>Page rendered in <strong>{elapsed_time}</strong> seconds</p>
+			<p class="text-center muted">&copy; Copyright 2022 - <br>Created By : <a href="https://www.youtube.com/channel/UCv0jAc0KgG4UWpQq5jOp7Nw" target="_blank">192102109 - Mateus Panji</a><br>Page rendered in <strong>{elapsed_time}</strong> seconds</p>
         </section>
 	</div> <!-- end container -->
     
